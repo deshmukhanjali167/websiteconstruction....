@@ -1,0 +1,195 @@
+/* .body{
+    margin: 0px;
+    padding: 0px;
+} */
+.textBlur {
+    color: transparent;
+    text-shadow: 0 0 1px #202122;
+}
+
+.navbar {
+    box-shadow: none;
+}
+
+.nav-item {
+    font-size:18px;
+}
+a:hover {
+    color: blue !important;
+}
+.enqurire{
+    color: blue !important;
+}
+.raw{
+    font-weight: 400;
+}
+.raws{
+    font-weight: 500;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block !important;
+    margin-top: 0;
+
+}
+.image-fisrt-sec{
+    background-image: url('https://image.shutterstock.com/image-photo/empty-foreground-square-city-buildings-260nw-2298436797.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+height: 500px;
+width: 100%;
+}
+.card-coloref{
+    background-color: #3db6ff;
+}
+.card-colores{
+
+    background-color: #3dcfae;
+}
+.card-coloret{
+
+    background-color: #9169f6;
+}
+.imgcard{
+    background-color: #bec6fd;
+    width: 200px;
+    height: 180px;
+
+}
+.imgcards{
+    background-color: #e1fbf0;
+    width: 200px;
+    height: 180px;
+
+}
+.imgcardt{
+    background-color:#f4e1fb;
+    width: 200px;
+    height: 180px;
+
+}
+.minifnt{
+    font-size: 13px;
+}
+.bor-radius{
+    border-radius: 25px;
+}
+.imgheight{
+    height: 246px;
+    width:340px ;
+}
+.imgheightsmall{
+    height: 150px;
+    width: 340px;
+}
+.middelimage{
+    height: 411px;
+    width:340px;
+}
+.backcolore{
+    background-color: #f9faff;
+}
+.mainimadiv{
+    position: relative;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 22px;
+    color: white;
+    left: 36px;
+    font-size: 20px;
+}
+.slidecard{
+    background-color: #bec6fd ;
+
+}
+.imageslide{
+    width: 100%;
+    height: 350px;
+}
+/* .subminicard{
+    height: 100px;
+} */
+.subcontent{
+    position: absolute;
+    top: 98px;
+ 
+    left: 77px;
+
+
+}
+.subcontents{
+    position: absolute;
+    top: 13px;
+ 
+    left: 28px;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+.serimag{
+    width: 240px;
+    height: 305px;
+    border-radius: 16px;
+
+}
+.latest{
+    height: 360px;
+    width:340px;
+}
+.latests{
+
+    width:340px;
+}
+.midlastest{
+    height: 280px;
+    width: 344px;
+}
+.endlatest{
+    height: 280px;
+    width: 371px;
+   
+}
+.bottomlatest{
+    width: 776px;
+    height:417px
+}
+.readmore{
+
+    color:#3948ff;
+}
+.trustwrapper{
+    background-color: #0d1d32;
+    height: 328px;
+}
+.box{
+    text-align: center;
+    background-color: white;
+    width: 191px;
+    height: 70px;
+}
+.testimonial{
+    background-color: #d7daff;
+border-radius: 14px;
+}
+.subtext{
+    font-family:450;
+}
+.endingwrpper{
+    font-size: 12px;
+    color: black;
+    font-weight: 600;
+}
+.footercolore{
+    background-color: #0d1d32;
+}
+.minifnts{
+    font-size: 11px;
+}
+#more {display: none;}
+#mores {display: none;}
+#mo {display: none;}
+#showsss{display: none;}
